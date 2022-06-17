@@ -1,0 +1,16 @@
+com\oliver\flights\domain\Item.class
+com\oliver\flights\repository\VueloRepository.class
+com\oliver\flights\domain\Movimiento.class
+com\oliver\flights\domain\Aerolinea.class
+com\oliver\flights\FlightsApplication.class
+com\oliver\flights\service\ItemServiceImpl.class
+com\oliver\flights\domain\Question.class
+com\oliver\flights\domain\Aeropuerto.class
+com\oliver\flights\domain\Vuelo.class
+com\oliver\flights\controller\VueloController.class
+com\oliver\flights\service\VueloServiceimpl.class
+com\oliver\flights\service\ItemService.class
+com\oliver\flights\controller\ItemController.class
+com\oliver\flights\service\VueloService.class
+com\oliver\flights\domain\VuelosDTO.class
+com\oliver\flights\domain\Owner.class

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a25220fa-c698-456e-add8-3a987938af99" name="Default Changelist" comment="" />
+    <list default="true" id="a25220fa-c698-456e-add8-3a987938af99" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/git" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +42,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -85,7 +88,7 @@
       <workItem from="1655344267852" duration="2037000" />
       <workItem from="1655422213114" duration="1277000" />
       <workItem from="1655423529456" duration="310000" />
-      <workItem from="1655423865590" duration="16582000" />
+      <workItem from="1655423865590" duration="16855000" />
     </task>
     <servers />
   </component>
@@ -121,6 +124,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1655424775811" />
+    <state x="782" y="436" key="Github.CreateGistDialog" timestamp="1655456864708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="782" y="436" key="Github.CreateGistDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1655456864708" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1655456226008">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
