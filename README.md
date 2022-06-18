@@ -12,3 +12,8 @@ Reto xaldigital API
 4- Cambiar branch master
 
 5- Correr el proyecto en un IDE o en la terminal con el comando 'mvnw spring-boot:run' 
+
+
+Swagger url:
+
+http://localhost:8080/swagger-ui/index.html
